@@ -1,13 +1,14 @@
 # FYP-Job Portal Mobile App
-Online Apply for Job Application is a mobile app developed using React Native and Firebase. It enables users to browse job opportunities and apply directly from their mobile devices. The app offers a user-friendly interface where users can create accounts, explore job listings, and submit applications seamlessly.
+# Online Apply for Job Application
 
-# Technologies Used:
-React Native
-Firebase
+**Online Apply for Job Application** is a mobile app built with React Native and Firebase that allows users to browse and apply for jobs. The app features a smooth and intuitive interface, allowing users to create accounts, view job listings, and apply for jobs directly from their mobile devices.
 
-# How to Use:
+## Technologies Used:
+- React Native
+- Firebase
 
-Clone or download the repository.
-Install dependencies using npm install or yarn install.
-Run the app using npm start or react-native run-android / react-native run-ios.
-Follow the Firebase setup guide to connect the app with your Firebase project.
+## How to Use:
+1. Clone or download the repository.
+2. Install dependencies with `npm install` or `yarn install`.
+3. Run the app using `npm start` or `react-native run-android` / `react-native run-ios`.
+4. Follow the setup guide for Firebase integration to connect the app to your Firebase project.
